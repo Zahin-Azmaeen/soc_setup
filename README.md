@@ -42,17 +42,17 @@ If your system doesn't meet these requirements, the script will issue a warning 
 
 ## Usage
 
-1. Clone this repository to your local machine:
+1. Makes list of packages from all repositories and PPA's up to date
 
    ```bash
    sudo apt update
 
-2. Clone this repository to your local machine:
+2. Download new available packages
 
    ```bash
    sudo apt upgrade -y
 
-3. Clone this repository to your local machine:
+3. Install six different software packages
 
    ```bash
    sudo apt install git curl net-tools vim lolcat figlet
